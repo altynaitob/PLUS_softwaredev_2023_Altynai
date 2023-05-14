@@ -1,0 +1,8 @@
+name: envtest2
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - anaconda
+prefix: C:\Users\altyn\miniconda3\envs\envtest2
