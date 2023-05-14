@@ -1,0 +1,10 @@
+name: envtest3
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - geopandas
+  - jupyterlab
+  - rasterio
+  - pyrosar
+prefix: C:\Users\altyn\miniconda3\envs\envtest3
